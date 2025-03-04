@@ -11,7 +11,8 @@ def parse_folder_and_create_markdown(base_folder):
             pdf_path = os.path.join(subfolder_path, pdf_filename)
 
             if os.path.exists(pdf_path):
-                link = f"[{subfolder_name}]({pdf_path.replace('/', '\\')})"
+                # new_pdf_path = pdf_path[]
+                link = f"[{subfolder_name}](https://kreier.github.io/force-curves{pdf_path[2:].replace('\\', '/').replace(' ', '%20')}) |"
                 md_content.append(link)
 
     markdown_content = "\n".join(md_content)
@@ -19,5 +20,5 @@ def parse_folder_and_create_markdown(base_folder):
         md_file.write(markdown_content)
 
 # Example usage
-base_folder_path = "../data"
+base_folder_path = "../_data"
 parse_folder_and_create_markdown(base_folder_path)

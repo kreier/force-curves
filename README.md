@@ -11,7 +11,7 @@ This is a [fork](https://github.com/ThereminGoat/force-curves) of the work from 
 Three larger projects to collect switch force curves are from [HaaTa](https://chart-studio.plotly.com/~haata#/), [ThereminGoat](https://github.com/ThereminGoat/force-curves) and [bluepylons](https://github.com/bluepylons/Open-Switch-Curve-Meter). In [January 2023](https://deskthority.net/viewtopic.php?t=27819) a member of [Deskthority](https://deskthority.net/) forum (with their [wiki page](https://deskthority.net/wiki/)) created a website to view and compare more than 2200 switches:
 
 <div align="center">
-<a href="https://www.switchesdb.com/">https://www.switchesdb.com/</a>
+<a href="https://www.switchesdb.com/">https://www.switchesdb.com/</br></a>
 </div>
 
 Here are two example comparison images from this database:
@@ -24,103 +24,104 @@ Here are two example comparison images from this database:
 
 [A Switch With No Good Name](data/A%20Switch%20With%20No%20Good%20Name/A%20Switch%20With%20No%20Good%20Name.pdf) | 
 [Aflion Black and Orange](data/Aflion%20Black%20and%20Orange/Aflion%20Black%20and%20Orange.pdf) | 
-[Aflion Blue Sky](data/Aflion%20Blue%20Sky\Aflion%20Blue%20Sky.pdf) | 
-[Aflion Blush](data/Aflion%20Blush\Aflion%20Blush.pdf) |
-[Aflion Cloudy Shadow](data/Aflion Cloudy Shadow\Aflion Cloudy Shadow.pdf)
-[Aflion Foggy Shadow](data/Aflion Foggy Shadow\Aflion Foggy Shadow.pdf)
-[Aflion Heavy Yellow Sample](data/Aflion Heavy Yellow Sample\Aflion Heavy Yellow Sample.pdf)
-[Aflion Holy Panda](data/Aflion Holy Panda\Aflion Holy Panda.pdf)
-[Aflion Iceberg Orange V2](data/Aflion Iceberg Orange V2\Aflion Iceberg Orange V2.pdf)
-[Aflion Iceberg Pink V2](data/Aflion Iceberg Pink V2\Aflion Iceberg Pink V2.pdf)
-[Aflion Iceberg Purple V2](data/Aflion Iceberg Purple V2\Aflion Iceberg Purple V2.pdf)
-[Aflion Iceberg Rainbow Blue](data/Aflion Iceberg Rainbow Blue\Aflion Iceberg Rainbow Blue.pdf)
-[Aflion Iceberg Red V2](data/Aflion Iceberg Red V2\Aflion Iceberg Red V2.pdf)
-[Aflion Iceberg Teal V2](data/Aflion Iceberg Teal V2\Aflion Iceberg Teal V2.pdf)
-[Aflion Iceberg Yellow V2](data/Aflion Iceberg Yellow V2\Aflion Iceberg Yellow V2.pdf)
-[Aflion Thunder Shadow](data/Aflion Thunder Shadow\Aflion Thunder Shadow.pdf)
-[Aflion Tropical Waters](data/Aflion Tropical Waters\Aflion Tropical Waters.pdf)
-[Aflion Windy Shadow](data/Aflion Windy Shadow\Aflion Windy Shadow.pdf)
-[Agile Moon](data/Agile Moon\Agile Moon.pdf)
-[Aiguox Dark Sakura Glass](data/Aiguox Dark Sakura Glass\Aiguox Dark Sakura Glass.pdf)
-[Aiguox Little Bear](data/Aiguox Little Bear\Aiguox Little Bear.pdf)
-[Ajazz AS 001 Red](data/Ajazz AS 001 Red\Ajazz AS 001 Red.pdf)
-[Ajazz AS Coral Pink](data/Ajazz AS Coral Pink\Ajazz AS Coral Pink.pdf)
-[Ajazz AS Foggy Mountain Green](data/Ajazz AS Foggy Mountain Green\Ajazz AS Foggy Mountain Green.pdf)
-[Ajazz AS Royal Yellow](data/Ajazz AS Royal Yellow\Ajazz AS Royal Yellow.pdf)
-[Ajazz AS Sky Blue](data/Ajazz AS Sky Blue\Ajazz AS Sky Blue.pdf)
-[Ajazz Black (Black Bottom)](data/Ajazz Black (Black Bottom)\Ajazz Black (Black Bottom).pdf)
-[Ajazz Blue (Black Bottom)](data/Ajazz Blue (Black Bottom)\Ajazz Blue (Black Bottom).pdf)
-[Ajazz Brown (Clear Top, Black Bottom)](data/Ajazz Brown (Clear Top, Black Bottom)\Ajazz Brown (Clear Top, Black Bottom).pdf)
-[Ajazz Doyu Orange](data/Ajazz Doyu Orange\Ajazz Doyu Orange.pdf)
-[Ajazz Doyu White](data/Ajazz Doyu White\Ajazz Doyu White.pdf)
-[Ajazz Flying Fish](data/Ajazz Flying Fish\Ajazz Flying Fish.pdf)
-[Ajazz Green Plum](data/Ajazz Green Plum\Ajazz Green Plum.pdf)
-[Ajazz Moon](data/Ajazz Moon\Ajazz Moon.pdf)
-[Ajazz Purple](data/Ajazz Purple\Ajazz Purple.pdf)
-[Ajazz Purple (Black Bottom)](data/Ajazz Purple (Black Bottom)\Ajazz Purple (Black Bottom).pdf)
-[Ajazz Sea Salt](data/Ajazz Sea Salt\Ajazz Sea Salt.pdf)
-[Ajazz x Huano Banana](data/Ajazz x Huano Banana\Ajazz x Huano Banana.pdf)
-[Ajazz x Huano Peach](data/Ajazz x Huano Peach\Ajazz x Huano Peach.pdf)
-[Akko Air](data/Akko Air\Akko Air.pdf)
-[Akko Blue V2](data/Akko Blue V2\Akko Blue V2.pdf)
-[Akko Botany](data/Akko Botany\Akko Botany.pdf)
-[Akko Cream Black V3 Pro](data/Akko Cream Black V3 Pro\Akko Cream Black V3 Pro.pdf)
-[Akko Creamy Cyan](data/Akko Creamy Cyan\Akko Creamy Cyan.pdf)
-[Akko Crystal](data/Akko Crystal\Akko Crystal.pdf)
-[Akko Crystal Blue](data/Akko Crystal Blue\Akko Crystal Blue.pdf)
-[Akko Crystal Silver](data/Akko Crystal Silver\Akko Crystal Silver.pdf)
-[Akko Crystal Wine Red](data/Akko Crystal Wine Red\Akko Crystal Wine Red.pdf)
-[Akko CS Jelly Black](data/Akko CS Jelly Black\Akko CS Jelly Black.pdf)
-[Akko CS Jelly Blue](data/Akko CS Jelly Blue\Akko CS Jelly Blue.pdf)
-[Akko CS Jelly Pink](data/Akko CS Jelly Pink\Akko CS Jelly Pink.pdf)
-[Akko CS Jelly Purple](data/Akko CS Jelly Purple\Akko CS Jelly Purple.pdf)
-[Akko CS Jelly White](data/Akko CS Jelly White\Akko CS Jelly White.pdf)
-[Akko CS Lavender Purple](data/Akko CS Lavender Purple\Akko CS Lavender Purple.pdf)
-[Akko CS Radiant Red](data/Akko CS Radiant Red\Akko CS Radiant Red.pdf)
-[Akko CS Sponge](data/Akko CS Sponge\Akko CS Sponge.pdf)
-[Akko CS Starfish](data/Akko CS Starfish\Akko CS Starfish.pdf)
-[Akko CS Vintage White](data/Akko CS Vintage White\Akko CS Vintage White.pdf)
-[Akko CS Wine White](data/Akko CS Wine White\Akko CS Wine White.pdf)
-[Akko Dracula](data/Akko Dracula\Akko Dracula.pdf)
-[Akko Hall Effect Cream Yellow](data/Akko Hall Effect Cream Yellow\Akko Hall Effect Cream Yellow.pdf)
-[Akko Hall Effect Sakura Pink](data/Akko Hall Effect Sakura Pink\Akko Hall Effect Sakura Pink.pdf)
-[Akko Haze Pink](data/Akko Haze Pink\Akko Haze Pink.pdf)
-[Akko Ice Cream Pink](data/Akko Ice Cream Pink\Akko Ice Cream Pink.pdf)
-[Akko Ice Cream Purple](data/Akko Ice Cream Purple\Akko Ice Cream Purple.pdf)
-[Akko Lavender Purple V3 Pro](data/Akko Lavender Purple V3 Pro\Akko Lavender Purple V3 Pro.pdf)
-[Akko Matcha Green V3 Pro](data/Akko Matcha Green V3 Pro\Akko Matcha Green V3 Pro.pdf)
-[Akko Orange V1](data/Akko Orange V1\Akko Orange V1.pdf)
-[Akko Piano](data/Akko Piano\Akko Piano.pdf)
-[Akko Piano Pro V3 (Condenser)](data/Akko Piano Pro V3 (Condenser)\Akko Piano Pro V3 (Condenser).pdf)
-[Akko Piano V3 Pro](data/Akko Piano V3 Pro\Akko Piano V3 Pro.pdf)
-[Akko Pink V2](data/Akko Pink V2\Akko Pink V2.pdf)
-[Akko POM Brown](data/Akko POM Brown\Akko POM Brown.pdf)
-[Akko POM Pink](data/Akko POM Pink\Akko POM Pink.pdf)
-[Akko POM Silver](data/Akko POM Silver\Akko POM Silver.pdf)
-[Akko Rosewood](data/Akko Rosewood\Akko Rosewood.pdf)
-[Akko Silver V3 Pro](data/Akko Silver V3 Pro\Akko Silver V3 Pro.pdf)
-[Akko Snow Blue Grey](data/Akko Snow Blue Grey\Akko Snow Blue Grey.pdf)
-[Akko Stellar Rose](data/Akko Stellar Rose\Akko Stellar Rose.pdf)
-[Akko V3 Cream Blue](data/Akko V3 Cream Blue\Akko V3 Cream Blue.pdf)
-[Akko V3 Cream Blue Pro](data/Akko V3 Cream Blue Pro\Akko V3 Cream Blue Pro.pdf)
-[Akko V3 Cream Yellow](data/Akko V3 Cream Yellow\Akko V3 Cream Yellow.pdf)
-[Akko V3 Cream Yellow Pro](data/Akko V3 Cream Yellow Pro\Akko V3 Cream Yellow Pro.pdf)
-[Akko V3 Creamy Purple Pro](data/Akko V3 Creamy Purple Pro\Akko V3 Creamy Purple Pro.pdf)
-[Akko Wine Red](data/Akko Wine Red\Akko Wine Red.pdf)
-[Akko x Gateron White](data/Akko x Gateron White\Akko x Gateron White.pdf)
-[Akko x Gateron Yellow](data/Akko x Gateron Yellow\Akko x Gateron Yellow.pdf)
-[All Clack](data/All Clack\All Clack.pdf)
-[AngryMiao Cyberswitch](data/AngryMiao Cyberswitch\AngryMiao Cyberswitch.pdf)
-[Aristotle White](data/Aristotle White\Aristotle White.pdf)
-[Asus Rog NX Blue](data/Asus Rog NX Blue\Asus Rog NX Blue.pdf)
-[Asus Rog NX Brown](data/Asus Rog NX Brown\Asus Rog NX Brown.pdf)
-[Asus Rog NX Red](data/Asus Rog NX Red\Asus Rog NX Red.pdf)
-[ASUS Rog Snow](data/ASUS Rog Snow\ASUS Rog Snow.pdf)
-[ASUS Rog Storm](data/ASUS Rog Storm\ASUS Rog Storm.pdf)
-[Attack Shark Blue Jelly](data/Attack Shark Blue Jelly\Attack Shark Blue Jelly.pdf)
-[Attack Shark Green Jelly](data/Attack Shark Green Jelly\Attack Shark Green Jelly.pdf)
-[Attack Shark White](data/Attack Shark White\Attack Shark White.pdf)
-[Attack Shark Yellow](data/Attack Shark Yellow\Attack Shark Yellow.pdf)
+[Aflion Black and Orange](https://kreier.github.io/force-curves/_data/Aflion%20Black%20and%20Orange/Aflion%20Black%20and%20Orange.pdf) |
+[Aflion Blue Sky](https://kreier.github.io/force-curves/_data/Aflion%20Blue%20Sky/Aflion%20Blue%20Sky.pdf) |
+[Aflion Blush](https://kreier.github.io/force-curves/_data/Aflion%20Blush/Aflion%20Blush.pdf) |
+[Aflion Cloudy Shadow](https://kreier.github.io/force-curves/_data/Aflion%20Cloudy%20Shadow/Aflion%20Cloudy%20Shadow.pdf) |
+[Aflion Foggy Shadow](https://kreier.github.io/force-curves/_data/Aflion%20Foggy%20Shadow/Aflion%20Foggy%20Shadow.pdf) |
+[Aflion Heavy Yellow Sample](https://kreier.github.io/force-curves/_data/Aflion%20Heavy%20Yellow%20Sample/Aflion%20Heavy%20Yellow%20Sample.pdf) |
+[Aflion Holy Panda](https://kreier.github.io/force-curves/_data/Aflion%20Holy%20Panda/Aflion%20Holy%20Panda.pdf) |
+[Aflion Iceberg Orange V2](https://kreier.github.io/force-curves/_data/Aflion%20Iceberg%20Orange%20V2/Aflion%20Iceberg%20Orange%20V2.pdf) |
+[Aflion Iceberg Pink V2](https://kreier.github.io/force-curves/_data/Aflion%20Iceberg%20Pink%20V2/Aflion%20Iceberg%20Pink%20V2.pdf) |
+[Aflion Iceberg Purple V2](https://kreier.github.io/force-curves/_data/Aflion%20Iceberg%20Purple%20V2/Aflion%20Iceberg%20Purple%20V2.pdf) |
+[Aflion Iceberg Rainbow Blue](https://kreier.github.io/force-curves/_data/Aflion%20Iceberg%20Rainbow%20Blue/Aflion%20Iceberg%20Rainbow%20Blue.pdf) |
+[Aflion Iceberg Red V2](https://kreier.github.io/force-curves/_data/Aflion%20Iceberg%20Red%20V2/Aflion%20Iceberg%20Red%20V2.pdf) |
+[Aflion Iceberg Teal V2](https://kreier.github.io/force-curves/_data/Aflion%20Iceberg%20Teal%20V2/Aflion%20Iceberg%20Teal%20V2.pdf) |
+[Aflion Iceberg Yellow V2](https://kreier.github.io/force-curves/_data/Aflion%20Iceberg%20Yellow%20V2/Aflion%20Iceberg%20Yellow%20V2.pdf) |
+[Aflion Thunder Shadow](https://kreier.github.io/force-curves/_data/Aflion%20Thunder%20Shadow/Aflion%20Thunder%20Shadow.pdf) |
+[Aflion Tropical Waters](https://kreier.github.io/force-curves/_data/Aflion%20Tropical%20Waters/Aflion%20Tropical%20Waters.pdf) |
+[Aflion Windy Shadow](https://kreier.github.io/force-curves/_data/Aflion%20Windy%20Shadow/Aflion%20Windy%20Shadow.pdf) |
+[Agile Moon](https://kreier.github.io/force-curves/_data/Agile%20Moon/Agile%20Moon.pdf) |
+[Aiguox Dark Sakura Glass](https://kreier.github.io/force-curves/_data/Aiguox%20Dark%20Sakura%20Glass/Aiguox%20Dark%20Sakura%20Glass.pdf) |
+[Aiguox Little Bear](https://kreier.github.io/force-curves/_data/Aiguox%20Little%20Bear/Aiguox%20Little%20Bear.pdf) |
+[Ajazz AS 001 Red](https://kreier.github.io/force-curves/_data/Ajazz%20AS%20001%20Red/Ajazz%20AS%20001%20Red.pdf) |
+[Ajazz AS Coral Pink](https://kreier.github.io/force-curves/_data/Ajazz%20AS%20Coral%20Pink/Ajazz%20AS%20Coral%20Pink.pdf) |
+[Ajazz AS Foggy Mountain Green](https://kreier.github.io/force-curves/_data/Ajazz%20AS%20Foggy%20Mountain%20Green/Ajazz%20AS%20Foggy%20Mountain%20Green.pdf) |
+[Ajazz AS Royal Yellow](https://kreier.github.io/force-curves/_data/Ajazz%20AS%20Royal%20Yellow/Ajazz%20AS%20Royal%20Yellow.pdf) |
+[Ajazz AS Sky Blue](https://kreier.github.io/force-curves/_data/Ajazz%20AS%20Sky%20Blue/Ajazz%20AS%20Sky%20Blue.pdf) |
+[Ajazz Black (Black Bottom)](https://kreier.github.io/force-curves/_data/Ajazz%20Black%20(Black%20Bottom)/Ajazz%20Black%20(Black%20Bottom).pdf) |
+[Ajazz Blue (Black Bottom)](https://kreier.github.io/force-curves/_data/Ajazz%20Blue%20(Black%20Bottom)/Ajazz%20Blue%20(Black%20Bottom).pdf) |
+[Ajazz Brown (Clear Top, Black Bottom)](https://kreier.github.io/force-curves/_data/Ajazz%20Brown%20(Clear%20Top,%20Black%20Bottom)/Ajazz%20Brown%20(Clear%20Top,%20Black%20Bottom).pdf) |
+[Ajazz Doyu Orange](https://kreier.github.io/force-curves/_data/Ajazz%20Doyu%20Orange/Ajazz%20Doyu%20Orange.pdf) |
+[Ajazz Doyu White](https://kreier.github.io/force-curves/_data/Ajazz%20Doyu%20White/Ajazz%20Doyu%20White.pdf) |
+[Ajazz Flying Fish](https://kreier.github.io/force-curves/_data/Ajazz%20Flying%20Fish/Ajazz%20Flying%20Fish.pdf) |
+[Ajazz Green Plum](https://kreier.github.io/force-curves/_data/Ajazz%20Green%20Plum/Ajazz%20Green%20Plum.pdf) |
+[Ajazz Moon](https://kreier.github.io/force-curves/_data/Ajazz%20Moon/Ajazz%20Moon.pdf) |
+[Ajazz Purple](https://kreier.github.io/force-curves/_data/Ajazz%20Purple/Ajazz%20Purple.pdf) |
+[Ajazz Purple (Black Bottom)](https://kreier.github.io/force-curves/_data/Ajazz%20Purple%20(Black%20Bottom)/Ajazz%20Purple%20(Black%20Bottom).pdf) |
+[Ajazz Sea Salt](https://kreier.github.io/force-curves/_data/Ajazz%20Sea%20Salt/Ajazz%20Sea%20Salt.pdf) |
+[Ajazz x Huano Banana](https://kreier.github.io/force-curves/_data/Ajazz%20x%20Huano%20Banana/Ajazz%20x%20Huano%20Banana.pdf) |
+[Ajazz x Huano Peach](https://kreier.github.io/force-curves/_data/Ajazz%20x%20Huano%20Peach/Ajazz%20x%20Huano%20Peach.pdf) |
+[Akko Air](https://kreier.github.io/force-curves/_data/Akko%20Air/Akko%20Air.pdf) |
+[Akko Blue V2](https://kreier.github.io/force-curves/_data/Akko%20Blue%20V2/Akko%20Blue%20V2.pdf) |
+[Akko Botany](https://kreier.github.io/force-curves/_data/Akko%20Botany/Akko%20Botany.pdf) |
+[Akko Cream Black V3 Pro](https://kreier.github.io/force-curves/_data/Akko%20Cream%20Black%20V3%20Pro/Akko%20Cream%20Black%20V3%20Pro.pdf) |
+[Akko Creamy Cyan](https://kreier.github.io/force-curves/_data/Akko%20Creamy%20Cyan/Akko%20Creamy%20Cyan.pdf) |
+[Akko Crystal](https://kreier.github.io/force-curves/_data/Akko%20Crystal/Akko%20Crystal.pdf) |
+[Akko Crystal Blue](https://kreier.github.io/force-curves/_data/Akko%20Crystal%20Blue/Akko%20Crystal%20Blue.pdf) |
+[Akko Crystal Silver](https://kreier.github.io/force-curves/_data/Akko%20Crystal%20Silver/Akko%20Crystal%20Silver.pdf) |
+[Akko Crystal Wine Red](https://kreier.github.io/force-curves/_data/Akko%20Crystal%20Wine%20Red/Akko%20Crystal%20Wine%20Red.pdf) |
+[Akko CS Jelly Black](https://kreier.github.io/force-curves/_data/Akko%20CS%20Jelly%20Black/Akko%20CS%20Jelly%20Black.pdf) |
+[Akko CS Jelly Blue](https://kreier.github.io/force-curves/_data/Akko%20CS%20Jelly%20Blue/Akko%20CS%20Jelly%20Blue.pdf) |
+[Akko CS Jelly Pink](https://kreier.github.io/force-curves/_data/Akko%20CS%20Jelly%20Pink/Akko%20CS%20Jelly%20Pink.pdf) |
+[Akko CS Jelly Purple](https://kreier.github.io/force-curves/_data/Akko%20CS%20Jelly%20Purple/Akko%20CS%20Jelly%20Purple.pdf) |
+[Akko CS Jelly White](https://kreier.github.io/force-curves/_data/Akko%20CS%20Jelly%20White/Akko%20CS%20Jelly%20White.pdf) |
+[Akko CS Lavender Purple](https://kreier.github.io/force-curves/_data/Akko%20CS%20Lavender%20Purple/Akko%20CS%20Lavender%20Purple.pdf) |
+[Akko CS Radiant Red](https://kreier.github.io/force-curves/_data/Akko%20CS%20Radiant%20Red/Akko%20CS%20Radiant%20Red.pdf) |
+[Akko CS Sponge](https://kreier.github.io/force-curves/_data/Akko%20CS%20Sponge/Akko%20CS%20Sponge.pdf) |
+[Akko CS Starfish](https://kreier.github.io/force-curves/_data/Akko%20CS%20Starfish/Akko%20CS%20Starfish.pdf) |
+[Akko CS Vintage White](https://kreier.github.io/force-curves/_data/Akko%20CS%20Vintage%20White/Akko%20CS%20Vintage%20White.pdf) |
+[Akko CS Wine White](https://kreier.github.io/force-curves/_data/Akko%20CS%20Wine%20White/Akko%20CS%20Wine%20White.pdf) |
+[Akko Dracula](https://kreier.github.io/force-curves/_data/Akko%20Dracula/Akko%20Dracula.pdf) |
+[Akko Hall Effect Cream Yellow](https://kreier.github.io/force-curves/_data/Akko%20Hall%20Effect%20Cream%20Yellow/Akko%20Hall%20Effect%20Cream%20Yellow.pdf) |
+[Akko Hall Effect Sakura Pink](https://kreier.github.io/force-curves/_data/Akko%20Hall%20Effect%20Sakura%20Pink/Akko%20Hall%20Effect%20Sakura%20Pink.pdf) |
+[Akko Haze Pink](https://kreier.github.io/force-curves/_data/Akko%20Haze%20Pink/Akko%20Haze%20Pink.pdf) |
+[Akko Ice Cream Pink](https://kreier.github.io/force-curves/_data/Akko%20Ice%20Cream%20Pink/Akko%20Ice%20Cream%20Pink.pdf) |
+[Akko Ice Cream Purple](https://kreier.github.io/force-curves/_data/Akko%20Ice%20Cream%20Purple/Akko%20Ice%20Cream%20Purple.pdf) |
+[Akko Lavender Purple V3 Pro](https://kreier.github.io/force-curves/_data/Akko%20Lavender%20Purple%20V3%20Pro/Akko%20Lavender%20Purple%20V3%20Pro.pdf) |
+[Akko Matcha Green V3 Pro](https://kreier.github.io/force-curves/_data/Akko%20Matcha%20Green%20V3%20Pro/Akko%20Matcha%20Green%20V3%20Pro.pdf) |
+[Akko Orange V1](https://kreier.github.io/force-curves/_data/Akko%20Orange%20V1/Akko%20Orange%20V1.pdf) |
+[Akko Piano](https://kreier.github.io/force-curves/_data/Akko%20Piano/Akko%20Piano.pdf) |
+[Akko Piano Pro V3 (Condenser)](https://kreier.github.io/force-curves/_data/Akko%20Piano%20Pro%20V3%20(Condenser)/Akko%20Piano%20Pro%20V3%20(Condenser).pdf) |
+[Akko Piano V3 Pro](https://kreier.github.io/force-curves/_data/Akko%20Piano%20V3%20Pro/Akko%20Piano%20V3%20Pro.pdf) |
+[Akko Pink V2](https://kreier.github.io/force-curves/_data/Akko%20Pink%20V2/Akko%20Pink%20V2.pdf) |
+[Akko POM Brown](https://kreier.github.io/force-curves/_data/Akko%20POM%20Brown/Akko%20POM%20Brown.pdf) |
+[Akko POM Pink](https://kreier.github.io/force-curves/_data/Akko%20POM%20Pink/Akko%20POM%20Pink.pdf) |
+[Akko POM Silver](https://kreier.github.io/force-curves/_data/Akko%20POM%20Silver/Akko%20POM%20Silver.pdf) |
+[Akko Rosewood](https://kreier.github.io/force-curves/_data/Akko%20Rosewood/Akko%20Rosewood.pdf) |
+[Akko Silver V3 Pro](https://kreier.github.io/force-curves/_data/Akko%20Silver%20V3%20Pro/Akko%20Silver%20V3%20Pro.pdf) |
+[Akko Snow Blue Grey](https://kreier.github.io/force-curves/_data/Akko%20Snow%20Blue%20Grey/Akko%20Snow%20Blue%20Grey.pdf) |
+[Akko Stellar Rose](https://kreier.github.io/force-curves/_data/Akko%20Stellar%20Rose/Akko%20Stellar%20Rose.pdf) |
+[Akko V3 Cream Blue](https://kreier.github.io/force-curves/_data/Akko%20V3%20Cream%20Blue/Akko%20V3%20Cream%20Blue.pdf) |
+[Akko V3 Cream Blue Pro](https://kreier.github.io/force-curves/_data/Akko%20V3%20Cream%20Blue%20Pro/Akko%20V3%20Cream%20Blue%20Pro.pdf) |
+[Akko V3 Cream Yellow](https://kreier.github.io/force-curves/_data/Akko%20V3%20Cream%20Yellow/Akko%20V3%20Cream%20Yellow.pdf) |
+[Akko V3 Cream Yellow Pro](https://kreier.github.io/force-curves/_data/Akko%20V3%20Cream%20Yellow%20Pro/Akko%20V3%20Cream%20Yellow%20Pro.pdf) |
+[Akko V3 Creamy Purple Pro](https://kreier.github.io/force-curves/_data/Akko%20V3%20Creamy%20Purple%20Pro/Akko%20V3%20Creamy%20Purple%20Pro.pdf) |
+[Akko Wine Red](https://kreier.github.io/force-curves/_data/Akko%20Wine%20Red/Akko%20Wine%20Red.pdf) |
+[Akko x Gateron White](https://kreier.github.io/force-curves/_data/Akko%20x%20Gateron%20White/Akko%20x%20Gateron%20White.pdf) |
+[Akko x Gateron Yellow](https://kreier.github.io/force-curves/_data/Akko%20x%20Gateron%20Yellow/Akko%20x%20Gateron%20Yellow.pdf) |
+[All Clack](https://kreier.github.io/force-curves/_data/All%20Clack/All%20Clack.pdf) |
+[AngryMiao Cyberswitch](https://kreier.github.io/force-curves/_data/AngryMiao%20Cyberswitch/AngryMiao%20Cyberswitch.pdf) |
+[Aristotle White](https://kreier.github.io/force-curves/_data/Aristotle%20White/Aristotle%20White.pdf) |
+[Asus Rog NX Blue](https://kreier.github.io/force-curves/_data/Asus%20Rog%20NX%20Blue/Asus%20Rog%20NX%20Blue.pdf) |
+[Asus Rog NX Brown](https://kreier.github.io/force-curves/_data/Asus%20Rog%20NX%20Brown/Asus%20Rog%20NX%20Brown.pdf) |
+[Asus Rog NX Red](https://kreier.github.io/force-curves/_data/Asus%20Rog%20NX%20Red/Asus%20Rog%20NX%20Red.pdf) |
+[ASUS Rog Snow](https://kreier.github.io/force-curves/_data/ASUS%20Rog%20Snow/ASUS%20Rog%20Snow.pdf) |
+[ASUS Rog Storm](https://kreier.github.io/force-curves/_data/ASUS%20Rog%20Storm/ASUS%20Rog%20Storm.pdf) |
+[Attack Shark Blue Jelly](https://kreier.github.io/force-curves/_data/Attack%20Shark%20Blue%20Jelly/Attack%20Shark%20Blue%20Jelly.pdf) |
+[Attack Shark Green Jelly](https://kreier.github.io/force-curves/_data/Attack%20Shark%20Green%20Jelly/Attack%20Shark%20Green%20Jelly.pdf) |
+[Attack Shark White](https://kreier.github.io/force-curves/_data/Attack%20Shark%20White/Attack%20Shark%20White.pdf) |
+[Attack Shark Yellow](https://kreier.github.io/force-curves/_data/Attack%20Shark%20Yellow/Attack%20Shark%20Yellow.pdf)
 
 ## A Beginner’s Guide to Force Curves
 
