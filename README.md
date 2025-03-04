@@ -14,6 +14,8 @@ Three larger projects to collect switch force curves are from [HaaTa](https://ch
 <a href="https://www.switchesdb.com/">https://www.switchesdb.com/</a>
 </div>
 
+Here are two example comparison images from this database:
+
 <img src="code/Akko_V3_Cream_Yellow_Leobog_Reaper.svg" width="49%"> <img src="code/Akko_V3_Cream_Yellow_Outemu_Silent_Lemon_V3.svg" width="49%">
 
 ## Switches in this repository
@@ -144,14 +146,11 @@ Cheers,
 
 -Goat
 
-Other ThereminGoat Links:
+#### Other ThereminGoat Links:
 
-Website: https://www.theremingoat.com/
-
-Twitter: https://twitter.com/goattheremin?lang=en
-
-Instagram: https://www.instagram.com/theremingoatmk/?hl=en
-
-Reddit: https://www.reddit.com/user/ThereminGoat/
-
-Patreon: https://www.patreon.com/theremingoat
+- Website: [www.theremingoat.com/](https://www.theremingoat.com/)
+- Twitter: [twitter.com/goattheremin](https://twitter.com/goattheremin?lang=en)
+- Instagram: [www.instagram.com/theremingoatmk](https://www.instagram.com/theremingoatmk/?hl=en)
+- Reddit: [reddit.com/user/ThereminGoat](https://www.reddit.com/user/ThereminGoat/)
+- Patreon: [patreon.com/theremingoat](https://www.patreon.com/theremingoat)
+ 
