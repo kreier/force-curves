@@ -11,7 +11,7 @@ This is a [fork](https://github.com/ThereminGoat/force-curves) of the work from 
 Three larger projects to collect switch force curves are from [HaaTa](https://chart-studio.plotly.com/~haata#/), [ThereminGoat](https://github.com/ThereminGoat/force-curves) and [bluepylons](https://github.com/bluepylons/Open-Switch-Curve-Meter). In [January 2023](https://deskthority.net/viewtopic.php?t=27819) a member of [Deskthority](https://deskthority.net/) forum (with their [wiki page](https://deskthority.net/wiki/)) created a website to view and compare more than 2200 switches:
 
 <div align="center">
-<a href="https://www.switchesdb.com/">https://www.switchesdb.com/</br></a>
+<a href="https://www.switchesdb.com/">https://www.switchesdb.com/</br></br></a>
 </div>
 
 Here are two example comparison images from this database:
