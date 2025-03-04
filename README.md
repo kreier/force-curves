@@ -1,15 +1,18 @@
 # Force-curves of 1473 switches
 
+[![GitHub release](https://img.shields.io/github/release/kreier/force-curves.svg)](https://GitHub.com/kreier/force-curves/releases/)
+[![MIT license](https://img.shields.io/github/license/kreier/force-curves)](https://kreier.mit-license.org/)
+[![pages-build-deployment](https://github.com/kreier/force-curves/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/kreier/force-curves/actions/workflows/pages/pages-build-deployment)
+
 This is a [fork](https://github.com/ThereminGoat/force-curves) of the work from https://www.theremingoat.com/.
 
 ## Comparison website
 
 Three larger projects to collect switch force curves are from [HaaTa](https://chart-studio.plotly.com/~haata#/), [ThereminGoat](https://github.com/ThereminGoat/force-curves) and [bluepylons](https://github.com/bluepylons/Open-Switch-Curve-Meter). In [January 2023](https://deskthority.net/viewtopic.php?t=27819) a member of [Deskthority](https://deskthority.net/) forum (with their [wiki page](https://deskthority.net/wiki/)) created a website to view and compare more than 2200 switches:
 
-<p align="justify">
-  Lorem ipsum
-</p>
-[https://www.switchesdb.com/](https://www.switchesdb.com/)
+<div align="center">
+<a href="https://www.switchesdb.com/">https://www.switchesdb.com/</a>
+</div>
 
 <img src="code/Akko_V3_Cream_Yellow_Leobog_Reaper.svg" width="49%"> <img src="code/Akko_V3_Cream_Yellow_Outemu_Silent_Lemon_V3.svg" width="49%">
 
@@ -17,10 +20,10 @@ Three larger projects to collect switch force curves are from [HaaTa](https://ch
 
 ### A
 
-[A Switch With No Good Name](data/A%20Switch%20With%20No%20Good%20Name/A%20Switch%20With%20No%20Good%20Name.pdf)
-[Aflion Black and Orange](data/Aflion%20Black%20and%20Orange/Aflion%20Black%20and%20Orange.pdf)
-[Aflion Blue Sky](data/Aflion Blue Sky\Aflion Blue Sky.pdf)
-[Aflion Blush](data/Aflion Blush\Aflion Blush.pdf)
+[A Switch With No Good Name](data/A%20Switch%20With%20No%20Good%20Name/A%20Switch%20With%20No%20Good%20Name.pdf) | 
+[Aflion Black and Orange](data/Aflion%20Black%20and%20Orange/Aflion%20Black%20and%20Orange.pdf) | 
+[Aflion Blue Sky](data/Aflion%20Blue%20Sky\Aflion%20Blue%20Sky.pdf) | 
+[Aflion Blush](data/Aflion%20Blush\Aflion%20Blush.pdf) |
 [Aflion Cloudy Shadow](data/Aflion Cloudy Shadow\Aflion Cloudy Shadow.pdf)
 [Aflion Foggy Shadow](data/Aflion Foggy Shadow\Aflion Foggy Shadow.pdf)
 [Aflion Heavy Yellow Sample](data/Aflion Heavy Yellow Sample\Aflion Heavy Yellow Sample.pdf)
