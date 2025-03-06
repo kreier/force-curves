@@ -2,7 +2,7 @@
 
 [![GitHub release](https://img.shields.io/github/release/kreier/force-curves.svg)](https://GitHub.com/kreier/force-curves/releases/)
 [![MIT license](https://img.shields.io/github/license/kreier/force-curves)](https://kreier.mit-license.org/)
-[![pages-build-deployment](https://github.com/kreier/force-curves/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/kreier/force-curves/actions/workflows/pages/pages-build-deployment)
+[![Deploy Jekyll site to Pages](https://github.com/kreier/force-curves/actions/workflows/jekyll.yml/badge.svg)](https://github.com/kreier/force-curves/actions/workflows/jekyll.yml)
 
 This is a [fork](https://github.com/ThereminGoat/force-curves) of the work from https://www.theremingoat.com/.
 
